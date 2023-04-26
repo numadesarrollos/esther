@@ -13,15 +13,5 @@ COMPOSE
 
 	-Scafold -> Par aposicionar el menu lateral, bottom navigation, toolbar... elementos de material en general (pareceido al coordinator)
 
-	-Surface -> Parecido al box pero con material
-
-	-Card -> Surface con elementos predeterminados
-
-
-1.4 Modifiers: Personaliza cualquier vista
-
-	- Cada modifier que apliquemos tiene en cuenta el orden en el que se aplican
-
-	- Se pueden repetir modifiers
 
 	-  Exiten padding pero no margin
